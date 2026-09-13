@@ -1,10 +1,10 @@
-package builder;
+package model;
 
-public class exercise {private final String name;
+public class Exercise {private final String name;
     private int sets;
     private final int reps;
 
-    public exercise(String name, int sets, int reps) {
+    public Exercise(String name, int sets, int reps) {
         this.name = name;
         this.sets = sets;
         this.reps = reps;
