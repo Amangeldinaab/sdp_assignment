@@ -6,6 +6,6 @@ public abstract class WorkoutFactory {
     public void logworkout() {
         Workout workout = createWorkout();
         workout.perform();
-        System.out.println("Logged: "+ workout.getCaloriesBurned() + "kcal burned.\n"
+        System.out.println("Logged: "+ workout.getCaloriesBurned() + "kcal burned.");;
     }
 }
