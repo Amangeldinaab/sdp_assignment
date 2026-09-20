@@ -1,6 +1,6 @@
-import builder.WorkoutBuilder;
-import Director.WorkoutDirector;
-import model.Workoutplan;
+import assignment1.builder.WorkoutBuilder;
+import assignment1.builder.Director.WorkoutDirector;
+import assignment1.builder.model.Workoutplan;
 
 public class Main {
     public static void main(String[] args) {

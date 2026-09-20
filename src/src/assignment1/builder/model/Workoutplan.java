@@ -1,4 +1,4 @@
-package model;
+package assignment1.builder.model;
 
 import java.util.List;
 

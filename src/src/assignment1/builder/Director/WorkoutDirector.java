@@ -1,7 +1,7 @@
-package Director;
+package assignment1.builder.Director;
 
-import builder.WorkoutBuilder;
-import model.Workoutplan;
+import assignment1.builder.WorkoutBuilder;
+import assignment1.builder.model.Workoutplan;
 
     public class WorkoutDirector {
 

@@ -1,5 +1,5 @@
-package builder;
-import model.Workoutplan;
+package assignment1.builder;
+import assignment1.builder.model.Workoutplan;
 
 public interface Builder {
     Builder setTitle(String title);

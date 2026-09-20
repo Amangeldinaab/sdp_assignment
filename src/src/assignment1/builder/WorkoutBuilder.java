@@ -1,6 +1,6 @@
-package builder;
-import model.Exercise;
-import model.Workoutplan;
+package assignment1.builder;
+import assignment1.builder.model.Exercise;
+import assignment1.builder.model.Workoutplan;
 
 import java.util.ArrayList;
 import java.util.List;

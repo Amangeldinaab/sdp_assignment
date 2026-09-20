@@ -1,4 +1,4 @@
-package model;
+package assignment1.builder.model;
 
 public class Exercise {private final String name;
     private int sets;
