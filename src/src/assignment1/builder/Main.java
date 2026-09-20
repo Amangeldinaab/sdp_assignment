@@ -1,4 +1,5 @@
-import assignment1.builder.WorkoutBuilder;
+package assignment1.builder;
+
 import assignment1.builder.Director.WorkoutDirector;
 import assignment1.builder.model.Workoutplan;
 

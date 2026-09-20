@@ -3,7 +3,7 @@ package assignment2;
 public class RunningWorkout implements Workout {
     @Override
     public void perform() {
-        System.out.println("Running ontreadmill for 30 minutes");
+        System.out.println("Running on treadmill for 30 minutes");
     }
 
     @Override
