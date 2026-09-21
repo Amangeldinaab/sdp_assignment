@@ -18,7 +18,7 @@ public class Main {
         cardioEquipment.use();
         cardioNutrition.consume();
 
-        System.out.println("Strength Plan");
+        System.out.println(" Strength Plan ");
         FitnessFactory strengthFactory = new StrengthFitnessFactory();
         Equipment strengthEquipment = strengthFactory.createEquipment();
         Nutrition strengthNutrition = strengthFactory.createNutrition();
