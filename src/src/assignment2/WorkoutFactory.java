@@ -10,12 +10,5 @@ public abstract class WorkoutFactory {
         ;
     }
 }
-    class RunningWorkoutFactory extends WorkoutFactory {
-        public Workout createWorkout() { return new RunningWorkout(); }
-    }
-
-    class PushUpWorkoutFactory extends WorkoutFactory {
-        public Workout createWorkout() { return new PushUpWorkout(); }
-    }
 
 
